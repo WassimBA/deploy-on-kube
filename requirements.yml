@@ -1,1 +1,6 @@
 ---
+
+src: git@github.com:WassimBA/ansible-role.git
+version: main
+scm: git
+name: ansible-role

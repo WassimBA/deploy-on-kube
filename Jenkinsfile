@@ -1,4 +1,19 @@
-pipeline{
+pipeline {
+    agent {label "deploy"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

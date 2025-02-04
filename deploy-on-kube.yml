@@ -1,1 +1,5 @@
 ---
+- hosts: localhost
+  remote_user: "vagrant"
+  roles:
+    - {role: ansible-role, tags: ['ansible-role']}
